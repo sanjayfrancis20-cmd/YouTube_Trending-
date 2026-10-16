@@ -1,0 +1,1860 @@
+{
+  "ALL": {
+    "metrics": {
+      "total_videos": 47067,
+      "avg_views": 935265,
+      "avg_likes": 25894,
+      "avg_engagement": 3.15,
+      "avg_days_trending": 2.43
+    },
+    "categories": [
+      {
+        "category_name": "Movies",
+        "count": 3,
+        "avg_views": 4462115,
+        "avg_engagement": 1.1
+      },
+      {
+        "category_name": "Music",
+        "count": 3581,
+        "avg_views": 3396212,
+        "avg_engagement": 4.06
+      },
+      {
+        "category_name": "Film & Animation",
+        "count": 1989,
+        "avg_views": 1450247,
+        "avg_engagement": 2.84
+      },
+      {
+        "category_name": "Sports",
+        "count": 2727,
+        "avg_views": 977597,
+        "avg_engagement": 1.81
+      },
+      {
+        "category_name": "Gaming",
+        "count": 894,
+        "avg_views": 964609,
+        "avg_engagement": 5.55
+      },
+      {
+        "category_name": "Science & Technology",
+        "count": 1317,
+        "avg_views": 944951,
+        "avg_engagement": 5.66
+      },
+      {
+        "category_name": "Comedy",
+        "count": 3603,
+        "avg_views": 907142,
+        "avg_engagement": 5.29
+      },
+      {
+        "category_name": "Howto & Style",
+        "count": 2343,
+        "avg_views": 766616,
+        "avg_engagement": 4.83
+      },
+      {
+        "category_name": "Entertainment",
+        "count": 17405,
+        "avg_views": 759984,
+        "avg_engagement": 2.31
+      },
+      {
+        "category_name": "Autos & Vehicles",
+        "count": 352,
+        "avg_views": 663638,
+        "avg_engagement": 3.45
+      },
+      {
+        "category_name": "Pets & Animals",
+        "count": 353,
+        "avg_views": 635659,
+        "avg_engagement": 4.9
+      },
+      {
+        "category_name": "People & Blogs",
+        "count": 4279,
+        "avg_views": 630634,
+        "avg_engagement": 3.13
+      },
+      {
+        "category_name": "Shows",
+        "count": 235,
+        "avg_views": 620196,
+        "avg_engagement": 0.97
+      },
+      {
+        "category_name": "Nonprofits & Activism",
+        "count": 132,
+        "avg_views": 584531,
+        "avg_engagement": 4.16
+      },
+      {
+        "category_name": "Travel & Events",
+        "count": 265,
+        "avg_views": 527608,
+        "avg_engagement": 3.32
+      },
+      {
+        "category_name": "News & Politics",
+        "count": 5950,
+        "avg_views": 315645,
+        "avg_engagement": 2.26
+      },
+      {
+        "category_name": "Education",
+        "count": 1639,
+        "avg_views": 303956,
+        "avg_engagement": 5.23
+      }
+    ],
+    "sentiments": [
+      {
+        "title_sentiment_label": "Negative",
+        "count": 7827,
+        "avg_views": 1082754,
+        "avg_engagement": 3.47,
+        "pct": 16.6
+      },
+      {
+        "title_sentiment_label": "Neutral",
+        "count": 29052,
+        "avg_views": 885808,
+        "avg_engagement": 2.95,
+        "pct": 61.7
+      },
+      {
+        "title_sentiment_label": "Positive",
+        "count": 10188,
+        "avg_views": 962986,
+        "avg_engagement": 3.46,
+        "pct": 21.6
+      }
+    ],
+    "durations": [
+      {
+        "duration_tier": "1 Day (Flash)",
+        "count": 23039,
+        "avg_views": 321735,
+        "pct": 48.9
+      },
+      {
+        "duration_tier": "2-4 Days (Standard)",
+        "count": 18584,
+        "avg_views": 944927,
+        "pct": 39.5
+      },
+      {
+        "duration_tier": "5-9 Days (Extended)",
+        "count": 4235,
+        "avg_views": 3087041,
+        "pct": 9.0
+      },
+      {
+        "duration_tier": "10+ Days (Viral Hit)",
+        "count": 1209,
+        "avg_views": 4940875,
+        "pct": 2.6
+      }
+    ],
+    "hourly": [
+      {
+        "publish_hour": 0,
+        "count": 1178,
+        "avg_views": 810608
+      },
+      {
+        "publish_hour": 1,
+        "count": 1301,
+        "avg_views": 908434
+      },
+      {
+        "publish_hour": 2,
+        "count": 1491,
+        "avg_views": 769775
+      },
+      {
+        "publish_hour": 3,
+        "count": 1657,
+        "avg_views": 805089
+      },
+      {
+        "publish_hour": 4,
+        "count": 1707,
+        "avg_views": 1605766
+      },
+      {
+        "publish_hour": 5,
+        "count": 1768,
+        "avg_views": 1324642
+      },
+      {
+        "publish_hour": 6,
+        "count": 1426,
+        "avg_views": 906501
+      },
+      {
+        "publish_hour": 7,
+        "count": 1408,
+        "avg_views": 995923
+      },
+      {
+        "publish_hour": 8,
+        "count": 1447,
+        "avg_views": 1035992
+      },
+      {
+        "publish_hour": 9,
+        "count": 1203,
+        "avg_views": 1137899
+      },
+      {
+        "publish_hour": 10,
+        "count": 1354,
+        "avg_views": 809517
+      },
+      {
+        "publish_hour": 11,
+        "count": 1722,
+        "avg_views": 836438
+      },
+      {
+        "publish_hour": 12,
+        "count": 2033,
+        "avg_views": 1032850
+      },
+      {
+        "publish_hour": 13,
+        "count": 2357,
+        "avg_views": 1155090
+      },
+      {
+        "publish_hour": 14,
+        "count": 2914,
+        "avg_views": 962107
+      },
+      {
+        "publish_hour": 15,
+        "count": 3061,
+        "avg_views": 899639
+      },
+      {
+        "publish_hour": 16,
+        "count": 4118,
+        "avg_views": 751213
+      },
+      {
+        "publish_hour": 17,
+        "count": 3241,
+        "avg_views": 894001
+      },
+      {
+        "publish_hour": 18,
+        "count": 2172,
+        "avg_views": 930126
+      },
+      {
+        "publish_hour": 19,
+        "count": 2133,
+        "avg_views": 775376
+      },
+      {
+        "publish_hour": 20,
+        "count": 2027,
+        "avg_views": 862446
+      },
+      {
+        "publish_hour": 21,
+        "count": 1891,
+        "avg_views": 904778
+      },
+      {
+        "publish_hour": 22,
+        "count": 1949,
+        "avg_views": 849645
+      },
+      {
+        "publish_hour": 23,
+        "count": 1509,
+        "avg_views": 702055
+      }
+    ],
+    "top_videos": [
+      {
+        "video_id": "VYOjWnS4cMY",
+        "title": "Childish Gambino - This Is America (Official Video)",
+        "channel_title": "ChildishGambinoVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 225211923,
+        "peak_likes": 5023450,
+        "engagement_rate": 2.612749325887156,
+        "trending_days_count": 25,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "FlsCjmMhFmw",
+        "title": "YouTube Rewind: The Shape of 2017 | #YouTubeRewind",
+        "channel_title": "YouTube Spotlight",
+        "category_name": "Entertainment",
+        "region": "US",
+        "peak_views": 149376127,
+        "peak_likes": 3093544,
+        "engagement_rate": 3.71364629101677,
+        "trending_days_count": 8,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "ffxKSjUwKdU",
+        "title": "Ariana Grande - No Tears Left To Cry",
+        "channel_title": "ArianaGrandeVevo",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 148689896,
+        "peak_likes": 3094021,
+        "engagement_rate": 2.330731336310841,
+        "trending_days_count": 20,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "zEf423kYfqk",
+        "title": "Becky G, Natti Natasha - Sin Pijama (Official Video)",
+        "channel_title": "BeckyGVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 139334502,
+        "peak_likes": 1425496,
+        "engagement_rate": 1.1692976087143154,
+        "trending_days_count": 20,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "FlsCjmMhFmw",
+        "title": "YouTube Rewind: The Shape of 2017 | #YouTubeRewind",
+        "channel_title": "YouTube Spotlight",
+        "category_name": "Entertainment",
+        "region": "CA",
+        "peak_views": 137843120,
+        "peak_likes": 3014479,
+        "engagement_rate": 3.9424847609369262,
+        "trending_days_count": 7,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "FlsCjmMhFmw",
+        "title": "YouTube Rewind: The Shape of 2017 | #YouTubeRewind",
+        "channel_title": "YouTube Spotlight",
+        "category_name": "Entertainment",
+        "region": "IN",
+        "peak_views": 125432237,
+        "peak_likes": 2912710,
+        "engagement_rate": 4.197712745886848,
+        "trending_days_count": 6,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "7C2z4GqqS5E",
+        "title": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'FAKE LOVE' Official MV",
+        "channel_title": "ibighit",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 123010920,
+        "peak_likes": 5613827,
+        "engagement_rate": 5.730689600565543,
+        "trending_days_count": 14,
+        "title_sentiment_label": "Positive"
+      },
+      {
+        "video_id": "M4ZoCHID9GI",
+        "title": "The Weeknd - Call Out My Name (Official Video)",
+        "channel_title": "TheWeekndVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 122544931,
+        "peak_likes": 1427436,
+        "engagement_rate": 1.24329336804637,
+        "trending_days_count": 19,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "TyHvyGVs42U",
+        "title": "Luis Fonsi, Demi Lovato - \u00c9chame La Culpa",
+        "channel_title": "LuisFonsiVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 102012605,
+        "peak_likes": 2376636,
+        "engagement_rate": 2.576207126560487,
+        "trending_days_count": 10,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "VYOjWnS4cMY",
+        "title": "Childish Gambino - This Is America (Official Video)",
+        "channel_title": "ChildishGambinoVEVO",
+        "category_name": "Music",
+        "region": "CA",
+        "peak_views": 98938809,
+        "peak_likes": 3037318,
+        "engagement_rate": 3.5563729092392853,
+        "trending_days_count": 8,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "xTlNMmZKwpA",
+        "title": "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video]",
+        "channel_title": "Cardi B",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 94254507,
+        "peak_likes": 1816753,
+        "engagement_rate": 2.1434561214139074,
+        "trending_days_count": 16,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "6ZfuNTqbHE8",
+        "title": "Marvel Studios' Avengers: Infinity War Official Trailer",
+        "channel_title": "Marvel Entertainment",
+        "category_name": "Entertainment",
+        "region": "US",
+        "peak_views": 91933007,
+        "peak_likes": 2625661,
+        "engagement_rate": 3.295691176510739,
+        "trending_days_count": 9,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "6ZfuNTqbHE8",
+        "title": "Marvel Studios' Avengers: Infinity War Official Trailer",
+        "channel_title": "Marvel Entertainment",
+        "category_name": "Entertainment",
+        "region": "CA",
+        "peak_views": 89930713,
+        "peak_likes": 2606665,
+        "engagement_rate": 3.344416940183717,
+        "trending_days_count": 8,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "6ZfuNTqbHE8",
+        "title": "Marvel Studios' Avengers: Infinity War Official Trailer",
+        "channel_title": "Marvel Entertainment",
+        "category_name": "Entertainment",
+        "region": "IN",
+        "peak_views": 89930713,
+        "peak_likes": 2606663,
+        "engagement_rate": 3.3444147162493865,
+        "trending_days_count": 8,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "-BQJo3vK8O8",
+        "title": "Maluma - El Pr\u00e9stamo (Official Video)",
+        "channel_title": "MalumaVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 87264467,
+        "peak_likes": 815369,
+        "engagement_rate": 1.0574842564499936,
+        "trending_days_count": 11,
+        "title_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  "US": {
+    "metrics": {
+      "total_videos": 6348,
+      "avg_views": 1962313,
+      "avg_likes": 55585,
+      "avg_engagement": 3.53,
+      "avg_days_trending": 6.44
+    },
+    "categories": [
+      {
+        "category_name": "Music",
+        "count": 801,
+        "avg_views": 6027698,
+        "avg_engagement": 4.61
+      },
+      {
+        "category_name": "Film & Animation",
+        "count": 319,
+        "avg_views": 2549497,
+        "avg_engagement": 3.0
+      },
+      {
+        "category_name": "Gaming",
+        "count": 103,
+        "avg_views": 2325086,
+        "avg_engagement": 4.1
+      },
+      {
+        "category_name": "Nonprofits & Activism",
+        "count": 14,
+        "avg_views": 2218900,
+        "avg_engagement": 3.9
+      },
+      {
+        "category_name": "Entertainment",
+        "count": 1619,
+        "avg_views": 1744771,
+        "avg_engagement": 3.05
+      },
+      {
+        "category_name": "Autos & Vehicles",
+        "count": 71,
+        "avg_views": 1449487,
+        "avg_engagement": 1.77
+      },
+      {
+        "category_name": "Sports",
+        "count": 449,
+        "avg_views": 1424202,
+        "avg_engagement": 1.68
+      },
+      {
+        "category_name": "Comedy",
+        "count": 544,
+        "avg_views": 1422560,
+        "avg_engagement": 4.4
+      },
+      {
+        "category_name": "People & Blogs",
+        "count": 495,
+        "avg_views": 1348809,
+        "avg_engagement": 4.38
+      },
+      {
+        "category_name": "Science & Technology",
+        "count": 381,
+        "avg_views": 1124838,
+        "avg_engagement": 3.37
+      },
+      {
+        "category_name": "Travel & Events",
+        "count": 59,
+        "avg_views": 996254,
+        "avg_engagement": 2.24
+      },
+      {
+        "category_name": "Howto & Style",
+        "count": 594,
+        "avg_views": 937806,
+        "avg_engagement": 4.8
+      },
+      {
+        "category_name": "Shows",
+        "count": 4,
+        "avg_views": 762400,
+        "avg_engagement": 2.57
+      },
+      {
+        "category_name": "Pets & Animals",
+        "count": 140,
+        "avg_views": 744318,
+        "avg_engagement": 3.7
+      },
+      {
+        "category_name": "Education",
+        "count": 251,
+        "avg_views": 607884,
+        "avg_engagement": 3.93
+      },
+      {
+        "category_name": "News & Politics",
+        "count": 504,
+        "avg_views": 459934,
+        "avg_engagement": 2.24
+      }
+    ],
+    "sentiments": [
+      {
+        "title_sentiment_label": "Negative",
+        "count": 1188,
+        "avg_views": 2399933,
+        "avg_engagement": 3.39,
+        "pct": 18.7
+      },
+      {
+        "title_sentiment_label": "Neutral",
+        "count": 3459,
+        "avg_views": 1869141,
+        "avg_engagement": 3.61,
+        "pct": 54.5
+      },
+      {
+        "title_sentiment_label": "Positive",
+        "count": 1701,
+        "avg_views": 1846139,
+        "avg_engagement": 3.47,
+        "pct": 26.8
+      }
+    ],
+    "durations": [
+      {
+        "duration_tier": "1 Day (Flash)",
+        "count": 707,
+        "avg_views": 542858,
+        "pct": 11.1
+      },
+      {
+        "duration_tier": "2-4 Days (Standard)",
+        "count": 1663,
+        "avg_views": 871181,
+        "pct": 26.2
+      },
+      {
+        "duration_tier": "5-9 Days (Extended)",
+        "count": 2770,
+        "avg_views": 1689079,
+        "pct": 43.6
+      },
+      {
+        "duration_tier": "10+ Days (Viral Hit)",
+        "count": 1208,
+        "avg_views": 4921719,
+        "pct": 19.0
+      }
+    ],
+    "hourly": [
+      {
+        "publish_hour": 0,
+        "count": 222,
+        "avg_views": 1516963
+      },
+      {
+        "publish_hour": 1,
+        "count": 194,
+        "avg_views": 1828149
+      },
+      {
+        "publish_hour": 2,
+        "count": 172,
+        "avg_views": 1818309
+      },
+      {
+        "publish_hour": 3,
+        "count": 173,
+        "avg_views": 1925253
+      },
+      {
+        "publish_hour": 4,
+        "count": 185,
+        "avg_views": 4945630
+      },
+      {
+        "publish_hour": 5,
+        "count": 221,
+        "avg_views": 2557579
+      },
+      {
+        "publish_hour": 6,
+        "count": 105,
+        "avg_views": 1407287
+      },
+      {
+        "publish_hour": 7,
+        "count": 125,
+        "avg_views": 2404652
+      },
+      {
+        "publish_hour": 8,
+        "count": 151,
+        "avg_views": 2625638
+      },
+      {
+        "publish_hour": 9,
+        "count": 90,
+        "avg_views": 4706213
+      },
+      {
+        "publish_hour": 10,
+        "count": 98,
+        "avg_views": 2995459
+      },
+      {
+        "publish_hour": 11,
+        "count": 149,
+        "avg_views": 2181257
+      },
+      {
+        "publish_hour": 12,
+        "count": 204,
+        "avg_views": 2325043
+      },
+      {
+        "publish_hour": 13,
+        "count": 328,
+        "avg_views": 2386741
+      },
+      {
+        "publish_hour": 14,
+        "count": 429,
+        "avg_views": 2044974
+      },
+      {
+        "publish_hour": 15,
+        "count": 503,
+        "avg_views": 1846862
+      },
+      {
+        "publish_hour": 16,
+        "count": 576,
+        "avg_views": 1684816
+      },
+      {
+        "publish_hour": 17,
+        "count": 530,
+        "avg_views": 1521809
+      },
+      {
+        "publish_hour": 18,
+        "count": 433,
+        "avg_views": 1467473
+      },
+      {
+        "publish_hour": 19,
+        "count": 310,
+        "avg_views": 1266881
+      },
+      {
+        "publish_hour": 20,
+        "count": 327,
+        "avg_views": 1662398
+      },
+      {
+        "publish_hour": 21,
+        "count": 296,
+        "avg_views": 1825456
+      },
+      {
+        "publish_hour": 22,
+        "count": 292,
+        "avg_views": 1588579
+      },
+      {
+        "publish_hour": 23,
+        "count": 235,
+        "avg_views": 1429871
+      }
+    ],
+    "top_videos": [
+      {
+        "video_id": "VYOjWnS4cMY",
+        "title": "Childish Gambino - This Is America (Official Video)",
+        "channel_title": "ChildishGambinoVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 225211923,
+        "peak_likes": 5023450,
+        "engagement_rate": 2.612749325887156,
+        "trending_days_count": 25,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "FlsCjmMhFmw",
+        "title": "YouTube Rewind: The Shape of 2017 | #YouTubeRewind",
+        "channel_title": "YouTube Spotlight",
+        "category_name": "Entertainment",
+        "region": "US",
+        "peak_views": 149376127,
+        "peak_likes": 3093544,
+        "engagement_rate": 3.71364629101677,
+        "trending_days_count": 8,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "ffxKSjUwKdU",
+        "title": "Ariana Grande - No Tears Left To Cry",
+        "channel_title": "ArianaGrandeVevo",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 148689896,
+        "peak_likes": 3094021,
+        "engagement_rate": 2.330731336310841,
+        "trending_days_count": 20,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "zEf423kYfqk",
+        "title": "Becky G, Natti Natasha - Sin Pijama (Official Video)",
+        "channel_title": "BeckyGVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 139334502,
+        "peak_likes": 1425496,
+        "engagement_rate": 1.1692976087143154,
+        "trending_days_count": 20,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "7C2z4GqqS5E",
+        "title": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'FAKE LOVE' Official MV",
+        "channel_title": "ibighit",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 123010920,
+        "peak_likes": 5613827,
+        "engagement_rate": 5.730689600565543,
+        "trending_days_count": 14,
+        "title_sentiment_label": "Positive"
+      },
+      {
+        "video_id": "M4ZoCHID9GI",
+        "title": "The Weeknd - Call Out My Name (Official Video)",
+        "channel_title": "TheWeekndVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 122544931,
+        "peak_likes": 1427436,
+        "engagement_rate": 1.24329336804637,
+        "trending_days_count": 19,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "TyHvyGVs42U",
+        "title": "Luis Fonsi, Demi Lovato - \u00c9chame La Culpa",
+        "channel_title": "LuisFonsiVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 102012605,
+        "peak_likes": 2376636,
+        "engagement_rate": 2.576207126560487,
+        "trending_days_count": 10,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "xTlNMmZKwpA",
+        "title": "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video]",
+        "channel_title": "Cardi B",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 94254507,
+        "peak_likes": 1816753,
+        "engagement_rate": 2.1434561214139074,
+        "trending_days_count": 16,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "6ZfuNTqbHE8",
+        "title": "Marvel Studios' Avengers: Infinity War Official Trailer",
+        "channel_title": "Marvel Entertainment",
+        "category_name": "Entertainment",
+        "region": "US",
+        "peak_views": 91933007,
+        "peak_likes": 2625661,
+        "engagement_rate": 3.295691176510739,
+        "trending_days_count": 9,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "-BQJo3vK8O8",
+        "title": "Maluma - El Pr\u00e9stamo (Official Video)",
+        "channel_title": "MalumaVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 87264467,
+        "peak_likes": 815369,
+        "engagement_rate": 1.0574842564499936,
+        "trending_days_count": 11,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "tCXGJQYZ9JA",
+        "title": "Taylor Swift - Delicate",
+        "channel_title": "TaylorSwiftVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 71560694,
+        "peak_likes": 1928392,
+        "engagement_rate": 3.081820307667782,
+        "trending_days_count": 15,
+        "title_sentiment_label": "Positive"
+      },
+      {
+        "video_id": "DkeiKbqa02g",
+        "title": "Calvin Harris, Dua Lipa - One Kiss (Official Video)",
+        "channel_title": "CalvinHarrisVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 71017021,
+        "peak_likes": 828626,
+        "engagement_rate": 1.2558017605385052,
+        "trending_days_count": 21,
+        "title_sentiment_label": "Positive"
+      },
+      {
+        "video_id": "i0p1bmr0EmE",
+        "title": "TWICE What is Love? M/V",
+        "channel_title": "jypentertainment",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 69295519,
+        "peak_likes": 1324609,
+        "engagement_rate": 2.4272853775725385,
+        "trending_days_count": 14,
+        "title_sentiment_label": "Positive"
+      },
+      {
+        "video_id": "aJOTlE1K90k",
+        "title": "Maroon 5 - Girls Like You ft. Cardi B",
+        "channel_title": "Maroon5VEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 66529577,
+        "peak_likes": 2488565,
+        "engagement_rate": 4.019924852370548,
+        "trending_days_count": 10,
+        "title_sentiment_label": "Positive"
+      },
+      {
+        "video_id": "U9BwWKXjVaI",
+        "title": "Drake - Nice For What",
+        "channel_title": "DrakeVEVO",
+        "category_name": "Music",
+        "region": "US",
+        "peak_views": 60635812,
+        "peak_likes": 994986,
+        "engagement_rate": 1.7890483597383011,
+        "trending_days_count": 14,
+        "title_sentiment_label": "Positive"
+      }
+    ]
+  },
+  "CA": {
+    "metrics": {
+      "total_videos": 24413,
+      "avg_views": 835298,
+      "avg_likes": 25810,
+      "avg_engagement": 3.69,
+      "avg_days_trending": 1.67
+    },
+    "categories": [
+      {
+        "category_name": "Movies",
+        "count": 1,
+        "avg_views": 5661965,
+        "avg_engagement": 1.32
+      },
+      {
+        "category_name": "Music",
+        "count": 1567,
+        "avg_views": 3117511,
+        "avg_engagement": 4.99
+      },
+      {
+        "category_name": "Film & Animation",
+        "count": 1149,
+        "avg_views": 987253,
+        "avg_engagement": 3.13
+      },
+      {
+        "category_name": "Science & Technology",
+        "count": 636,
+        "avg_views": 969419,
+        "avg_engagement": 4.8
+      },
+      {
+        "category_name": "Comedy",
+        "count": 1945,
+        "avg_views": 871857,
+        "avg_engagement": 5.69
+      },
+      {
+        "category_name": "Nonprofits & Activism",
+        "count": 49,
+        "avg_views": 860495,
+        "avg_engagement": 5.05
+      },
+      {
+        "category_name": "Sports",
+        "count": 1931,
+        "avg_views": 801388,
+        "avg_engagement": 1.9
+      },
+      {
+        "category_name": "Entertainment",
+        "count": 8239,
+        "avg_views": 732719,
+        "avg_engagement": 2.94
+      },
+      {
+        "category_name": "Gaming",
+        "count": 771,
+        "avg_views": 718740,
+        "avg_engagement": 5.76
+      },
+      {
+        "category_name": "Howto & Style",
+        "count": 1271,
+        "avg_views": 663970,
+        "avg_engagement": 5.93
+      },
+      {
+        "category_name": "Shows",
+        "count": 110,
+        "avg_views": 583093,
+        "avg_engagement": 1.03
+      },
+      {
+        "category_name": "People & Blogs",
+        "count": 2552,
+        "avg_views": 578330,
+        "avg_engagement": 3.45
+      },
+      {
+        "category_name": "Pets & Animals",
+        "count": 212,
+        "avg_views": 555152,
+        "avg_engagement": 5.68
+      },
+      {
+        "category_name": "Autos & Vehicles",
+        "count": 247,
+        "avg_views": 483223,
+        "avg_engagement": 4.1
+      },
+      {
+        "category_name": "Education",
+        "count": 590,
+        "avg_views": 460220,
+        "avg_engagement": 5.17
+      },
+      {
+        "category_name": "Travel & Events",
+        "count": 202,
+        "avg_views": 397354,
+        "avg_engagement": 3.66
+      },
+      {
+        "category_name": "News & Politics",
+        "count": 2941,
+        "avg_views": 306429,
+        "avg_engagement": 3.25
+      }
+    ],
+    "sentiments": [
+      {
+        "title_sentiment_label": "Negative",
+        "count": 4822,
+        "avg_views": 836599,
+        "avg_engagement": 3.88,
+        "pct": 19.8
+      },
+      {
+        "title_sentiment_label": "Neutral",
+        "count": 14437,
+        "avg_views": 819876,
+        "avg_engagement": 3.53,
+        "pct": 59.1
+      },
+      {
+        "title_sentiment_label": "Positive",
+        "count": 5154,
+        "avg_views": 877281,
+        "avg_engagement": 3.99,
+        "pct": 21.1
+      }
+    ],
+    "durations": [
+      {
+        "duration_tier": "1 Day (Flash)",
+        "count": 14508,
+        "avg_views": 343460,
+        "pct": 59.4
+      },
+      {
+        "duration_tier": "2-4 Days (Standard)",
+        "count": 9279,
+        "avg_views": 1152269,
+        "pct": 38.0
+      },
+      {
+        "duration_tier": "5-9 Days (Extended)",
+        "count": 626,
+        "avg_views": 7535652,
+        "pct": 2.6
+      },
+      {
+        "duration_tier": "10+ Days (Viral Hit)",
+        "count": 0,
+        "avg_views": 0,
+        "pct": 0.0
+      }
+    ],
+    "hourly": [
+      {
+        "publish_hour": 0,
+        "count": 719,
+        "avg_views": 723705
+      },
+      {
+        "publish_hour": 1,
+        "count": 809,
+        "avg_views": 735035
+      },
+      {
+        "publish_hour": 2,
+        "count": 777,
+        "avg_views": 738876
+      },
+      {
+        "publish_hour": 3,
+        "count": 798,
+        "avg_views": 805812
+      },
+      {
+        "publish_hour": 4,
+        "count": 697,
+        "avg_views": 1587986
+      },
+      {
+        "publish_hour": 5,
+        "count": 579,
+        "avg_views": 1772562
+      },
+      {
+        "publish_hour": 6,
+        "count": 383,
+        "avg_views": 1124940
+      },
+      {
+        "publish_hour": 7,
+        "count": 395,
+        "avg_views": 1205581
+      },
+      {
+        "publish_hour": 8,
+        "count": 441,
+        "avg_views": 1198042
+      },
+      {
+        "publish_hour": 9,
+        "count": 303,
+        "avg_views": 1650661
+      },
+      {
+        "publish_hour": 10,
+        "count": 430,
+        "avg_views": 847585
+      },
+      {
+        "publish_hour": 11,
+        "count": 652,
+        "avg_views": 902644
+      },
+      {
+        "publish_hour": 12,
+        "count": 802,
+        "avg_views": 1041568
+      },
+      {
+        "publish_hour": 13,
+        "count": 1037,
+        "avg_views": 998545
+      },
+      {
+        "publish_hour": 14,
+        "count": 1368,
+        "avg_views": 876013
+      },
+      {
+        "publish_hour": 15,
+        "count": 1573,
+        "avg_views": 829278
+      },
+      {
+        "publish_hour": 16,
+        "count": 2511,
+        "avg_views": 601697
+      },
+      {
+        "publish_hour": 17,
+        "count": 1947,
+        "avg_views": 773619
+      },
+      {
+        "publish_hour": 18,
+        "count": 1369,
+        "avg_views": 759996
+      },
+      {
+        "publish_hour": 19,
+        "count": 1569,
+        "avg_views": 656998
+      },
+      {
+        "publish_hour": 20,
+        "count": 1525,
+        "avg_views": 686701
+      },
+      {
+        "publish_hour": 21,
+        "count": 1390,
+        "avg_views": 709039
+      },
+      {
+        "publish_hour": 22,
+        "count": 1369,
+        "avg_views": 702550
+      },
+      {
+        "publish_hour": 23,
+        "count": 970,
+        "avg_views": 599719
+      }
+    ],
+    "top_videos": [
+      {
+        "video_id": "FlsCjmMhFmw",
+        "title": "YouTube Rewind: The Shape of 2017 | #YouTubeRewind",
+        "channel_title": "YouTube Spotlight",
+        "category_name": "Entertainment",
+        "region": "CA",
+        "peak_views": 137843120,
+        "peak_likes": 3014479,
+        "engagement_rate": 3.9424847609369262,
+        "trending_days_count": 7,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "VYOjWnS4cMY",
+        "title": "Childish Gambino - This Is America (Official Video)",
+        "channel_title": "ChildishGambinoVEVO",
+        "category_name": "Music",
+        "region": "CA",
+        "peak_views": 98938809,
+        "peak_likes": 3037318,
+        "engagement_rate": 3.5563729092392853,
+        "trending_days_count": 8,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "6ZfuNTqbHE8",
+        "title": "Marvel Studios' Avengers: Infinity War Official Trailer",
+        "channel_title": "Marvel Entertainment",
+        "category_name": "Entertainment",
+        "region": "CA",
+        "peak_views": 89930713,
+        "peak_likes": 2606665,
+        "engagement_rate": 3.344416940183717,
+        "trending_days_count": 8,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "7C2z4GqqS5E",
+        "title": "BTS (\ubc29\ud0c4\uc18c\ub144\ub2e8) 'FAKE LOVE' Official MV",
+        "channel_title": "ibighit",
+        "category_name": "Music",
+        "region": "CA",
+        "peak_views": 80738011,
+        "peak_likes": 5053338,
+        "engagement_rate": 7.8451177104177106,
+        "trending_days_count": 5,
+        "title_sentiment_label": "Positive"
+      },
+      {
+        "video_id": "_I_D_8Z4sJE",
+        "title": "Nicky Jam x J. Balvin - X (EQUIS) | Video Oficial | Prod. Afro Bros & Jeon",
+        "channel_title": "NickyJamTV",
+        "category_name": "Music",
+        "region": "CA",
+        "peak_views": 61163906,
+        "peak_likes": 629164,
+        "engagement_rate": 1.1114022050848094,
+        "trending_days_count": 5,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "TyHvyGVs42U",
+        "title": "Luis Fonsi, Demi Lovato - \u00c9chame La Culpa",
+        "channel_title": "LuisFonsiVEVO",
+        "category_name": "Music",
+        "region": "CA",
+        "peak_views": 56843038,
+        "peak_likes": 1904853,
+        "engagement_rate": 3.695054089121697,
+        "trending_days_count": 5,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "u9Mv98Gr5pY",
+        "title": "VENOM - Official Trailer (HD)",
+        "channel_title": "Sony Pictures Entertainment",
+        "category_name": "Entertainment",
+        "region": "CA",
+        "peak_views": 53071887,
+        "peak_likes": 1243479,
+        "engagement_rate": 2.6804511397908275,
+        "trending_days_count": 7,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "BhIEIO0vaBE",
+        "title": "To Our Daughter",
+        "channel_title": "Kylie Jenner",
+        "category_name": "People & Blogs",
+        "region": "CA",
+        "peak_views": 51243149,
+        "peak_likes": 0,
+        "engagement_rate": 0.0,
+        "trending_days_count": 6,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "aJOTlE1K90k",
+        "title": "Maroon 5 - Girls Like You ft. Cardi B",
+        "channel_title": "Maroon5VEVO",
+        "category_name": "Music",
+        "region": "CA",
+        "peak_views": 47778378,
+        "peak_likes": 2178332,
+        "engagement_rate": 4.904467455969309,
+        "trending_days_count": 7,
+        "title_sentiment_label": "Positive"
+      },
+      {
+        "video_id": "xpVfcZ0ZcFM",
+        "title": "Drake - God\u2019s Plan",
+        "channel_title": "DrakeVEVO",
+        "category_name": "Music",
+        "region": "CA",
+        "peak_views": 47362934,
+        "peak_likes": 2469057,
+        "engagement_rate": 5.6144368083277945,
+        "trending_days_count": 6,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "QwievZ1Tx-8",
+        "title": "Marvel Studios' Avengers: Infinity War - Official Trailer",
+        "channel_title": "Marvel Entertainment",
+        "category_name": "Entertainment",
+        "region": "CA",
+        "peak_views": 46707200,
+        "peak_likes": 1513428,
+        "engagement_rate": 3.708537441764867,
+        "trending_days_count": 7,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "ffxKSjUwKdU",
+        "title": "Ariana Grande - No Tears Left To Cry",
+        "channel_title": "ArianaGrandeVevo",
+        "category_name": "Music",
+        "region": "CA",
+        "peak_views": 45998071,
+        "peak_likes": 2195120,
+        "engagement_rate": 5.361166123683752,
+        "trending_days_count": 6,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "-BQJo3vK8O8",
+        "title": "Maluma - El Pr\u00e9stamo (Official Video)",
+        "channel_title": "MalumaVEVO",
+        "category_name": "Music",
+        "region": "CA",
+        "peak_views": 44725448,
+        "peak_likes": 575878,
+        "engagement_rate": 1.4591536344141258,
+        "trending_days_count": 5,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "xTlNMmZKwpA",
+        "title": "Cardi B, Bad Bunny & J Balvin - I Like It [Official Music Video]",
+        "channel_title": "Cardi B",
+        "category_name": "Music",
+        "region": "CA",
+        "peak_views": 43964411,
+        "peak_likes": 1377137,
+        "engagement_rate": 3.486504118069499,
+        "trending_days_count": 6,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "tCXGJQYZ9JA",
+        "title": "Taylor Swift - Delicate",
+        "channel_title": "TaylorSwiftVEVO",
+        "category_name": "Music",
+        "region": "CA",
+        "peak_views": 43738208,
+        "peak_likes": 1658758,
+        "engagement_rate": 4.347112254804769,
+        "trending_days_count": 7,
+        "title_sentiment_label": "Positive"
+      }
+    ]
+  },
+  "IN": {
+    "metrics": {
+      "total_videos": 16306,
+      "avg_views": 685099,
+      "avg_likes": 14461,
+      "avg_engagement": 2.19,
+      "avg_days_trending": 1.99
+    },
+    "categories": [
+      {
+        "category_name": "Movies",
+        "count": 2,
+        "avg_views": 3862190,
+        "avg_engagement": 0.98
+      },
+      {
+        "category_name": "Gaming",
+        "count": 20,
+        "avg_views": 3436401,
+        "avg_engagement": 5.06
+      },
+      {
+        "category_name": "Pets & Animals",
+        "count": 1,
+        "avg_views": 2490776,
+        "avg_engagement": 8.47
+      },
+      {
+        "category_name": "Music",
+        "count": 1213,
+        "avg_views": 2018555,
+        "avg_engagement": 2.48
+      },
+      {
+        "category_name": "Film & Animation",
+        "count": 521,
+        "avg_views": 1798266,
+        "avg_engagement": 2.11
+      },
+      {
+        "category_name": "Sports",
+        "count": 347,
+        "avg_views": 1380284,
+        "avg_engagement": 1.45
+      },
+      {
+        "category_name": "Howto & Style",
+        "count": 478,
+        "avg_views": 826816,
+        "avg_engagement": 1.93
+      },
+      {
+        "category_name": "Comedy",
+        "count": 1114,
+        "avg_views": 717054,
+        "avg_engagement": 5.04
+      },
+      {
+        "category_name": "Science & Technology",
+        "count": 300,
+        "avg_views": 664622,
+        "avg_engagement": 10.41
+      },
+      {
+        "category_name": "Shows",
+        "count": 121,
+        "avg_views": 649225,
+        "avg_engagement": 0.87
+      },
+      {
+        "category_name": "Entertainment",
+        "count": 7547,
+        "avg_views": 578490,
+        "avg_engagement": 1.47
+      },
+      {
+        "category_name": "People & Blogs",
+        "count": 1232,
+        "avg_views": 450423,
+        "avg_engagement": 1.96
+      },
+      {
+        "category_name": "Autos & Vehicles",
+        "count": 34,
+        "avg_views": 333265,
+        "avg_engagement": 2.28
+      },
+      {
+        "category_name": "News & Politics",
+        "count": 2505,
+        "avg_views": 297433,
+        "avg_engagement": 1.11
+      },
+      {
+        "category_name": "Travel & Events",
+        "count": 4,
+        "avg_views": 192907,
+        "avg_engagement": 2.19
+      },
+      {
+        "category_name": "Education",
+        "count": 798,
+        "avg_views": 92825,
+        "avg_engagement": 5.68
+      },
+      {
+        "category_name": "Nonprofits & Activism",
+        "count": 69,
+        "avg_views": 56945,
+        "avg_engagement": 3.57
+      }
+    ],
+    "sentiments": [
+      {
+        "title_sentiment_label": "Negative",
+        "count": 1817,
+        "avg_views": 874802,
+        "avg_engagement": 2.43,
+        "pct": 11.1
+      },
+      {
+        "title_sentiment_label": "Neutral",
+        "count": 11156,
+        "avg_views": 666242,
+        "avg_engagement": 2.01,
+        "pct": 68.4
+      },
+      {
+        "title_sentiment_label": "Positive",
+        "count": 3333,
+        "avg_views": 644799,
+        "avg_engagement": 2.64,
+        "pct": 20.4
+      }
+    ],
+    "durations": [
+      {
+        "duration_tier": "1 Day (Flash)",
+        "count": 7824,
+        "avg_views": 261470,
+        "pct": 48.0
+      },
+      {
+        "duration_tier": "2-4 Days (Standard)",
+        "count": 7642,
+        "avg_views": 709219,
+        "pct": 46.9
+      },
+      {
+        "duration_tier": "5-9 Days (Extended)",
+        "count": 839,
+        "avg_views": 4383257,
+        "pct": 5.1
+      },
+      {
+        "duration_tier": "10+ Days (Viral Hit)",
+        "count": 1,
+        "avg_views": 28080774,
+        "pct": 0.0
+      }
+    ],
+    "hourly": [
+      {
+        "publish_hour": 0,
+        "count": 237,
+        "avg_views": 412600
+      },
+      {
+        "publish_hour": 1,
+        "count": 298,
+        "avg_views": 780428
+      },
+      {
+        "publish_hour": 2,
+        "count": 542,
+        "avg_views": 481326
+      },
+      {
+        "publish_hour": 3,
+        "count": 686,
+        "avg_views": 521758
+      },
+      {
+        "publish_hour": 4,
+        "count": 825,
+        "avg_views": 871849
+      },
+      {
+        "publish_hour": 5,
+        "count": 968,
+        "avg_views": 775235
+      },
+      {
+        "publish_hour": 6,
+        "count": 938,
+        "avg_views": 761251
+      },
+      {
+        "publish_hour": 7,
+        "count": 888,
+        "avg_views": 704363
+      },
+      {
+        "publish_hour": 8,
+        "count": 855,
+        "avg_views": 671664
+      },
+      {
+        "publish_hour": 9,
+        "count": 810,
+        "avg_views": 549608
+      },
+      {
+        "publish_hour": 10,
+        "count": 826,
+        "avg_views": 530350
+      },
+      {
+        "publish_hour": 11,
+        "count": 921,
+        "avg_views": 572004
+      },
+      {
+        "publish_hour": 12,
+        "count": 1027,
+        "avg_views": 769365
+      },
+      {
+        "publish_hour": 13,
+        "count": 992,
+        "avg_views": 911496
+      },
+      {
+        "publish_hour": 14,
+        "count": 1117,
+        "avg_views": 651657
+      },
+      {
+        "publish_hour": 15,
+        "count": 985,
+        "avg_views": 528293
+      },
+      {
+        "publish_hour": 16,
+        "count": 1031,
+        "avg_views": 593774
+      },
+      {
+        "publish_hour": 17,
+        "count": 764,
+        "avg_views": 765263
+      },
+      {
+        "publish_hour": 18,
+        "count": 370,
+        "avg_views": 930764
+      },
+      {
+        "publish_hour": 19,
+        "count": 254,
+        "avg_views": 906751
+      },
+      {
+        "publish_hour": 20,
+        "count": 175,
+        "avg_views": 899169
+      },
+      {
+        "publish_hour": 21,
+        "count": 205,
+        "avg_views": 902614
+      },
+      {
+        "publish_hour": 22,
+        "count": 288,
+        "avg_views": 799655
+      },
+      {
+        "publish_hour": 23,
+        "count": 304,
+        "avg_views": 465965
+      }
+    ],
+    "top_videos": [
+      {
+        "video_id": "FlsCjmMhFmw",
+        "title": "YouTube Rewind: The Shape of 2017 | #YouTubeRewind",
+        "channel_title": "YouTube Spotlight",
+        "category_name": "Entertainment",
+        "region": "IN",
+        "peak_views": 125432237,
+        "peak_likes": 2912710,
+        "engagement_rate": 4.197712745886848,
+        "trending_days_count": 6,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "6ZfuNTqbHE8",
+        "title": "Marvel Studios' Avengers: Infinity War Official Trailer",
+        "channel_title": "Marvel Entertainment",
+        "category_name": "Entertainment",
+        "region": "IN",
+        "peak_views": 89930713,
+        "peak_likes": 2606663,
+        "engagement_rate": 3.3444147162493865,
+        "trending_days_count": 8,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "u9Mv98Gr5pY",
+        "title": "VENOM - Official Trailer (HD)",
+        "channel_title": "Sony Pictures Entertainment",
+        "category_name": "Entertainment",
+        "region": "IN",
+        "peak_views": 53822757,
+        "peak_likes": 1250535,
+        "engagement_rate": 2.6582361806549595,
+        "trending_days_count": 7,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "QwievZ1Tx-8",
+        "title": "Marvel Studios' Avengers: Infinity War - Official Trailer",
+        "channel_title": "Marvel Entertainment",
+        "category_name": "Entertainment",
+        "region": "IN",
+        "peak_views": 45064699,
+        "peak_likes": 1494997,
+        "engagement_rate": 3.79635066462998,
+        "trending_days_count": 6,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "rRr1qiJRsXk",
+        "title": "Sanju | Official Teaser | Ranbir Kapoor | Rajkumar Hirani",
+        "channel_title": "FoxStarHindi",
+        "category_name": "Entertainment",
+        "region": "IN",
+        "peak_views": 44171797,
+        "peak_likes": 780895,
+        "engagement_rate": 1.945845671617118,
+        "trending_days_count": 9,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "tCXGJQYZ9JA",
+        "title": "Taylor Swift - Delicate",
+        "channel_title": "TaylorSwiftVEVO",
+        "category_name": "Music",
+        "region": "IN",
+        "peak_views": 43738208,
+        "peak_likes": 1658756,
+        "engagement_rate": 4.347107682143722,
+        "trending_days_count": 6,
+        "title_sentiment_label": "Positive"
+      },
+      {
+        "video_id": "dfnCAmr569k",
+        "title": "Taylor Swift - End Game ft. Ed Sheeran, Future",
+        "channel_title": "TaylorSwiftVEVO",
+        "category_name": "Music",
+        "region": "IN",
+        "peak_views": 42019590,
+        "peak_likes": 1804377,
+        "engagement_rate": 4.881834877494045,
+        "trending_days_count": 6,
+        "title_sentiment_label": "Positive"
+      },
+      {
+        "video_id": "xmU0s2QtaEY",
+        "title": "Swag Se Swagat Song | Tiger Zinda Hai | Salman Khan | Katrina Kaif",
+        "channel_title": "YRF",
+        "category_name": "Music",
+        "region": "IN",
+        "peak_views": 40953758,
+        "peak_likes": 679940,
+        "engagement_rate": 1.9892313667527168,
+        "trending_days_count": 5,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "2Vv-BfVoq4g",
+        "title": "Ed Sheeran - Perfect (Official Music Video)",
+        "channel_title": "Ed Sheeran",
+        "category_name": "Music",
+        "region": "IN",
+        "peak_views": 39082222,
+        "peak_likes": 1721384,
+        "engagement_rate": 4.694904501591543,
+        "trending_days_count": 2,
+        "title_sentiment_label": "Positive"
+      },
+      {
+        "video_id": "ePO5M5DE01I",
+        "title": "Tiger Zinda Hai | Official Trailer | Salman Khan | Katrina Kaif",
+        "channel_title": "YRF",
+        "category_name": "Film & Animation",
+        "region": "IN",
+        "peak_views": 38664360,
+        "peak_likes": 865914,
+        "engagement_rate": 2.673596562829438,
+        "trending_days_count": 3,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "vn9mMeWcgoM",
+        "title": "Jurassic World: Fallen Kingdom - Official Trailer [HD]",
+        "channel_title": "Universal Pictures",
+        "category_name": "Entertainment",
+        "region": "IN",
+        "peak_views": 36971093,
+        "peak_likes": 544117,
+        "engagement_rate": 1.7586307226567524,
+        "trending_days_count": 6,
+        "title_sentiment_label": "Negative"
+      },
+      {
+        "video_id": "F2lN25IayH8",
+        "title": "Baaghi 2 Official Trailer | Tiger Shroff | Disha Patani | Sajid Nadiadwala | Ahmed Khan",
+        "channel_title": "FoxStarHindi",
+        "category_name": "Entertainment",
+        "region": "IN",
+        "peak_views": 36957773,
+        "peak_likes": 530146,
+        "engagement_rate": 1.6320166261100202,
+        "trending_days_count": 7,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "1J76wN0TPI4",
+        "title": "Sanju | Official Trailer | Ranbir Kapoor | Rajkumar Hirani | Releasing on 29th June",
+        "channel_title": "FoxStarHindi",
+        "category_name": "Entertainment",
+        "region": "IN",
+        "peak_views": 36224215,
+        "peak_likes": 744304,
+        "engagement_rate": 2.340851278626742,
+        "trending_days_count": 8,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "zMxIW7uwDGg",
+        "title": "DJ (Duvvada Jagannadham) 2017 New Released Full Hindi Dubbed Movie | Allu Arjun, Pooja Hegde",
+        "channel_title": "Goldmines Telefilms",
+        "category_name": "Film & Animation",
+        "region": "IN",
+        "peak_views": 35702242,
+        "peak_likes": 230576,
+        "engagement_rate": 0.7207894675073907,
+        "trending_days_count": 8,
+        "title_sentiment_label": "Neutral"
+      },
+      {
+        "video_id": "lkfpqGWzHCE",
+        "title": "Searching for Gender Equality \u2014 International Women\u2019s Day",
+        "channel_title": "Google",
+        "category_name": "Science & Technology",
+        "region": "IN",
+        "peak_views": 35276532,
+        "peak_likes": 45148,
+        "engagement_rate": 0.2405225094122063,
+        "trending_days_count": 6,
+        "title_sentiment_label": "Neutral"
+      }
+    ]
+  }
+}

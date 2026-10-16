@@ -1,0 +1,4 @@
+title_sentiment_label,video_count,pct_of_library,avg_views,avg_likes,avg_engagement_pct,avg_positive_like_pct,avg_days_to_trend,avg_trending_duration_days
+Negative,7153,15.2,1082754,31010,3.47,89.76,6.02,2.55
+Positive,9325,19.81,962987,28589,3.46,91.34,6.22,2.61
+Neutral,26860,57.07,885809,23572,2.95,88.8,6.66,2.33

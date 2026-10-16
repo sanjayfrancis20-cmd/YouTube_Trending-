@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large data files exceeding GitHub's 100MB limit
+data/processed/youtube_trending_cleaned.csv
+data/processed/youtube_trending_summary.csv
+
+# Large raw CSV datasets (available via kaggle/automated script)
+data/raw/*.csv
+
+# Local SQLite database
+*.db
+*.sqlite3
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
